@@ -35,12 +35,10 @@ The assignment focused on evaluating my ability to:
 ├── public/
 ├── src/
 │ ├── components/ # Reusable UI components
-│ ├── pages/ # Page-level components/views
 │ ├── assets/ # Static assets like images, icons
 │ └── App.jsx # Main app wrapper
 ├── tailwind.config.js # Tailwind CSS config
 ├── package.json # Project metadata and dependencies
-└── README.md # Project documentation
 
 ```
 ---
