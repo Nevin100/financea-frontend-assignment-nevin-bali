@@ -31,7 +31,7 @@ The assignment focused on evaluating my ability to:
 ---
 
 ## 📁 Folder Structure
-
+``` bash
 ├── public/
 ├── src/
 │ ├── components/ # Reusable UI components
@@ -42,10 +42,7 @@ The assignment focused on evaluating my ability to:
 ├── package.json # Project metadata and dependencies
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
+```
 ---
 
 ## 🧠 Outcome
