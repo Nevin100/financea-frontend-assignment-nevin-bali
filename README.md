@@ -1,12 +1,55 @@
-# React + Vite
+# Financea Frontend Assignment – Nevin Bali
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📷 Live Preview : 
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/654edea7-701c-49bf-9060-93224c935ff2)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+This repository showcases the frontend assignment submitted to **Financea** as part of their technical hiring process. The task involved building a fully responsive web interface using **React.js** and **Tailwind CSS**.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I'm proud to share that this submission led to my selection as a **Full Stack Developer Intern** at Financea for a **1.5-month tenure**.
+
+---
+
+## 🚀 Tech Stack Used
+
+- **React.js** – JavaScript library for building user interfaces.
+- **Tailwind CSS** – Utility-first CSS framework for custom styling.
+- **Responsive Design** – Mobile-first, cross-device compatible layout.
+
+---
+
+## 📌 Project Overview
+
+The assignment focused on evaluating my ability to:
+
+- Design and implement responsive UI using React and Tailwind CSS.
+- Write clean, modular, and scalable frontend code.
+- Follow component-driven development practices.
+- Deliver pixel-perfect, professional UI as per the design specifications.
+
+---
+
+## 📁 Folder Structure
+
+├── public/
+├── src/
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Page-level components/views
+│ ├── assets/ # Static assets like images, icons
+│ └── App.jsx # Main app wrapper
+├── tailwind.config.js # Tailwind CSS config
+├── package.json # Project metadata and dependencies
+└── README.md # Project documentation
+
+yaml
+Copy
+Edit
+
+---
+
+## 🧠 Outcome
+
+Successfully submitted this project to Financea, which directly contributed to securing my role as a **Full Stack Development Intern** for **1.5 months**, working across both frontend and backend technologies.
+
+---
